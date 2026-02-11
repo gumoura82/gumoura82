@@ -59,12 +59,3 @@ me.say_hi()
 - **Gestão de Servidores**: Experiência prática com criação e manutenção de servidores
 - **Minecraft Modded Servers**: Configuração e administração de servidores com mods específicos
 
-
-
-<div align="center">
-
-### 💡 "A melhor forma de prever o futuro é construí-lo" 
-
-![Profile Views](https://komarev.com/ghpvc/?username=seu-usuario&color=blue&style=flat-square)
-
-</div>
