@@ -55,36 +55,11 @@ me.say_hi()
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 Sistemas de IA
-- **Integração com Gemini 2.5 Flash**: Desenvolvimento de aplicações utilizando o Google Generative AI SDK
-- **LangChain Applications**: Criação de pipelines inteligentes para processamento de linguagem natural
-- **RAG Systems**: Implementação de sistemas de recuperação e geração aumentada
-
-### 💼 Soluções de Negócio
-- **Otimização de Processos**: Aplicação de IA para automatização e melhoria de processos empresariais
-- **Dashboards Inteligentes**: Desenvolvimento de interfaces React com análise de dados em tempo real
-
 ### 🎮 Infraestrutura
 - **Gestão de Servidores**: Experiência prática com criação e manutenção de servidores
 - **Minecraft Modded Servers**: Configuração e administração de servidores com mods específicos
 
-## 📈 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
-</div>
-
-## 📫 Vamos Conectar?
-
-Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendizado!
-
-- 💼 **LinkedIn**: [Seu Nome](seu-linkedin)
-- 📧 **Email**: seu.email@exemplo.com
-- 🌐 **Portfolio**: seu-portfolio.com
 
 <div align="center">
 
