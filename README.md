@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Gustavo!
 
 <div align="center">
   
 ### 👨‍💻 Estudante de Engenharia de Software | Frontend & IA Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](seu-github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gustavo-moura-206b9127a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gumoura82)
 
 *Transformando ideias em soluções escaláveis através da combinação de desenvolvimento web moderno e inteligência artificial*
 
