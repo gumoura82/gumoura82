@@ -31,8 +31,6 @@ me = Developer()
 me.say_hi()
 ```
 
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend Development
@@ -54,32 +52,6 @@ me.say_hi()
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
-
-## 🎯 Áreas de Expertise
-
-```mermaid
-mindmap
-  root((Expertise))
-    Frontend
-      React
-      Vite
-      TailwindCSS
-      UI/UX
-    IA & ML
-      LangChain
-      Gemini 2.5 Flash
-      RAG Systems
-      NLP
-    Data
-      PostgreSQL
-      DuckDB
-      Pandas
-      ChromaDB
-    DevOps
-      Servidores
-      Deploy
-      Minecraft Servers
-```
 
 ## 🚀 Projetos em Destaque
 
