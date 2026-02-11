@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 🎓 Sobre Mim
 
 Sou estudante de **Engenharia de Software na FIAP**, apaixonado por criar soluções que unem o melhor do desenvolvimento Frontend com o poder da Inteligência Artificial. Meu foco está em aplicar IA para otimizar processos de negócios e desenvolver aplicações escaláveis que fazem a diferença.
@@ -57,8 +55,6 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
 
----
-
 ## 🎯 Áreas de Expertise
 
 ```mermaid
@@ -85,8 +81,6 @@ mindmap
       Minecraft Servers
 ```
 
----
-
 ## 🚀 Projetos em Destaque
 
 ### 🤖 Sistemas de IA
@@ -102,8 +96,6 @@ mindmap
 - **Gestão de Servidores**: Experiência prática com criação e manutenção de servidores
 - **Minecraft Modded Servers**: Configuração e administração de servidores com mods específicos
 
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -114,14 +106,6 @@ mindmap
 
 </div>
 
----
-
-## 🤝 Colaborações
-
-Trabalho em projetos colaborativos com colegas talentosos como **Cadu** e **Daniel**, sempre buscando aprender e compartilhar conhecimento.
-
----
-
 ## 📫 Vamos Conectar?
 
 Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendizado!
@@ -129,8 +113,6 @@ Estou sempre aberto a novos projetos, colaborações e oportunidades de aprendiz
 - 💼 **LinkedIn**: [Seu Nome](seu-linkedin)
 - 📧 **Email**: seu.email@exemplo.com
 - 🌐 **Portfolio**: seu-portfolio.com
-
----
 
 <div align="center">
 
