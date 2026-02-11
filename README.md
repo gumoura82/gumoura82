@@ -1,45 +1,32 @@
-<h1 align="center">Gustavo Moura</h1>
+# Opa, eu sou o Gustavo Moura! 👋
 
-<p align="center">
-  Fullstack Developer • AI Builder • Engenharia de Software @ FIAP
-</p>
+**Estudante de Engenharia de Software na FIAP | Desenvolvedor Fullstack & IA**
 
-<p align="center">
-  Construindo soluções reais com foco em performance, UX e Inteligência Artificial.
-</p>
+Sou apaixonado por tecnologia, games e por construir soluções que realmente resolvam problemas usando Inteligência Artificial.
 
 ---
 
-## 🚀 Stack Principal
+### 🛠️ Tecnologias e Ferramentas
 
-**Frontend**
-React • Vite • TailwindCSS  
-
-**Backend**
-Node.js • Python • Flask  
-
-**Data & AI**
-PostgreSQL • Pandas • LangChain  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,py,flask,postgres,mongodb" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Minhas Estatísticas
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gumoura82&show_icons=true&theme=transparent" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumoura82&layout=compact&theme=transparent" />
+<p align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gumoura82&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumoura82&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🧠 Atualmente
+### 📫 Vamos nos conectar?
 
-- Desenvolvendo o projeto **Zordon**
-- Explorando IA aplicada a SaaS
-- Aprimorando arquitetura de sistemas
-
----
-
-## 📫 Contato
-
-LinkedIn: (coloca aqui)
+<div>
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/seu-id" target="_blank"><img src="https://img.shields.io/badge/-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
