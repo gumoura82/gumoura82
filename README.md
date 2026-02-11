@@ -18,7 +18,7 @@ Sou estudante de **Engenharia de Software na FIAP**, apaixonado por criar soluç
 ```python
 class Developer:
     def __init__(self):
-        self.name = "Seu Nome"
+        self.name = Gustavo"
         self.role = "Software Engineering Student"
         self.location = "Brasil"
         self.education = "FIAP - Engenharia de Software"
